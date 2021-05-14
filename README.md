@@ -1,3 +1,3 @@
 # BlaclistForPihole
 
-Another list for Pi-hole
+Another list blocking xxx for Pi-hole
