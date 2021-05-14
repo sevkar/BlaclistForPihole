@@ -98,6 +98,8 @@ embed.redtube.com
 boulx.com
 www.boulx.com
 fr.boulx.com
+de.boulx.com
+
 v1.intporn.com
 www.intporn.com
 intporn.com
