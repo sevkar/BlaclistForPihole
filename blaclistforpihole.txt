@@ -1,6 +1,10 @@
 # Updated: 14.5.2021
 
 es.xhamster.desi
+it.xhamster.desi
+fr.xhamster.desi
+nl.xhamster.desi
+de.xhamster.desi
 
 voyerweb.com
 www.voyerweb.com
