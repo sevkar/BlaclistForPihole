@@ -283,6 +283,7 @@ sun9-40.userapi.com
 sun6-22.userapi.com
 img.rule34.xxx
 cali.rule34.xxx
+static1.e621.net
 img.freeones.com
 i.pinimg.com
 media.babesource.com
