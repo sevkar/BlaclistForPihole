@@ -1,6 +1,8 @@
 # Updated: 16.5.2021
 # Another list blocking xxx with Pi-hole
 1615113634.rsc.cdn77.org
+albums193.zbporn.tv
+hwcdn.funbags.com
 cdn0-thumbs.worldsex.com
 cdn9-thumbs.worldsex.com
 cdn8-thumbs.worldsex.com
@@ -69,6 +71,9 @@ it.xhamster.desi
 fr.xhamster.desi
 nl.xhamster.desi
 de.xhamster.desi
+images.ftvgirlsfan.com
+ftvgirlsfan.com
+www.ftvgirlsfan.com
 content.wafflegirl.com
 wafflegirl.com
 www.wafflegirl.com
