@@ -1,5 +1,15 @@
 # Updated: 15.5.2021
 # Another list blocking xxx with Pi-hole
+cdn0-thumbs.worldsex.com
+cdn9-thumbs.worldsex.com
+cdn8-thumbs.worldsex.com
+cdn7-thumbs.worldsex.com
+cdn6-thumbs.worldsex.com
+cdn5-thumbs.worldsex.com
+cdn4-thumbs.worldsex.com
+cdn3-thumbs.worldsex.com
+cdn2-thumbs.worldsex.com
+cdn1-thumbs.worldsex.com
 ist3-9.filesor.com
 ist3-8.filesor.com
 ist3-7.filesor.com
