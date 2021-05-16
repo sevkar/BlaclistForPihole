@@ -1,5 +1,6 @@
-# Updated: 15.5.2021
+# Updated: 16.5.2021
 # Another list blocking xxx with Pi-hole
+1615113634.rsc.cdn77.org
 cdn0-thumbs.worldsex.com
 cdn9-thumbs.worldsex.com
 cdn8-thumbs.worldsex.com
