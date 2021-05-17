@@ -103,8 +103,15 @@ cash.girlsdelta.com
 ei1.t8cdn.com
 t8cdn.com
 www.t8cdn.com
+cdn6.wearehairy.com
+cdn5.wearehairy.com
+cdn4.wearehairy.com
+cdn3.wearehairy.com
+cdn2.wearehairy.com
+cdn1.wearehairy.com
 cdn.wearehairy.com
 de.wearehairy.com
+it.wearehairy.com
 wearehairy.com
 member.wearehairy.com
 www.wearehairy.com
