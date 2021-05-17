@@ -1,4 +1,4 @@
-# Updated: 16.5.2021
+# Updated: 17.5.2021
 # Another list blocking xxx with Pi-hole
 1615113634.rsc.cdn77.org
 albums193.zbporn.tv
