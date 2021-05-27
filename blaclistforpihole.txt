@@ -1,4 +1,3 @@
-
 #Another list blocking xxx with Pi-hole
 #Updated: 27.5.2021
 0.letmejerk.com
@@ -38,6 +37,7 @@
 24bettle.com
 24porn.tv
 2chickssametime.naughtyamerica.com
+2hisnd.com
 3.letmejerk.com
 3officegirls.com
 3panties.com
@@ -64,6 +64,7 @@
 80.77.89.177
 9.letmejerk.com
 a.bestcontentprogram.top
+a.bestcontentprovider.top
 a.bestcontentprovider.top
 a.maturemoms.tv
 a.o333o.com
@@ -405,6 +406,7 @@ bestamateurpics.com
 bestasspics.com
 bestblackpics.com
 bestcontentprogram.top
+bestcontentprovider.top
 bestfree6.com
 bestfreeporn.alisextube.com
 bestlingerieporn.com
@@ -616,6 +618,7 @@ cdn-thumbnails.4tube.com
 cdn-wpmsa.defymedia.com
 cdn.1by-day.com
 cdn.1byday.adultsites.co
+cdn.2hisnd.com
 cdn.40pussy.net
 cdn.60plusmilfs.com
 cdn.6mature.com
@@ -714,6 +717,7 @@ cdn.dirtypornvids.com
 cdn.dixyporn.com
 cdn.driverxxx.adultsites.co
 cdn.driverxxx.com
+cdn.ebaumsworld.com
 cdn.ebonygirlstgp.com
 cdn.ebonyinlove.com
 cdn.ebonymature.net
@@ -786,6 +790,7 @@ cdn.grannyslutspics.com
 cdn.grls.video
 cdn.groobygirls.com
 cdn.hairygirly.com
+cdn.hdmaturetube.com
 cdn.hegre-art.adultsites.co
 cdn.homemademomporn.com
 cdn.hornymaturepics.com
@@ -804,6 +809,7 @@ cdn.hotmaturetgp.com
 cdn.hotmilfpics.xyz
 cdn.hotmilfporn.xyz
 cdn.hotmilfpussy.com
+cdn.hotmilfs.pics
 cdn.hotnakedgirls.pro
 cdn.hotnakedoldies.com
 cdn.hotnudes.vip
@@ -914,6 +920,7 @@ cdn.maturesonfire.com
 cdn.maturestorepics.com
 cdn.maturestwat.com
 cdn.maturetits.club
+cdn.maturetube.tv
 cdn.maturevaginas.com
 cdn.maturewifefuck.com
 cdn.maturewifes.net
@@ -1062,6 +1069,7 @@ cdn.prettymilfpics.com
 cdn.puffy.adultsites.co
 cdn.puffynetwork.com
 cdn.purematurepussy.info
+cdn.pussysexvideos.com
 cdn.ripecunts.com
 cdn.ripevaginas.com
 cdn.saggyhooters.com
@@ -1073,6 +1081,7 @@ cdn.sapphicerotica.adultsites.co
 cdn.scoreuniverse.com
 cdn.secretarypics.com
 cdn.sensualmamas.com
+cdn.sexadept.com
 cdn.sexart.adultsites.co
 cdn.sexart.com
 cdn.sexmilf.net
@@ -1190,6 +1199,7 @@ cdn1.danielleftv.com
 cdn1.dixyporn.com
 cdn1.ebonymilftube.com
 cdn1.erobliss.com
+cdn1.erostockings.com
 cdn1.evanotty.com
 cdn1.fatwhitebutt.com
 cdn1.freematurepornpics.com
@@ -1254,6 +1264,7 @@ cdn2.assbikini.com
 cdn2.bustymilftube.com
 cdn2.dixyporn.com
 cdn2.ebonymilftube.com
+cdn2.erostockings.com
 cdn2.fatwhitebutt.com
 cdn2.freematurepornpics.com
 cdn2.homemoviestube.com
@@ -1306,6 +1317,7 @@ cdn3.assbikini.com
 cdn3.bustymilftube.com
 cdn3.dixyporn.com
 cdn3.ebonymilftube.com
+cdn3.erostockings.com
 cdn3.freematurepornpics.com
 cdn3.homemoviestube.com
 cdn3.hotbustymilfs.com
@@ -1346,6 +1358,7 @@ cdn4-thumbs.worldsex.com
 cdn4.18andnasty.com
 cdn4.assbikini.com
 cdn4.dixyporn.com
+cdn4.erostockings.com
 cdn4.freematurepornpics.com
 cdn4.homemoviestube.com
 cdn4.hotbustymilfs.com
@@ -1384,6 +1397,7 @@ cdn5-thumbnails.4tube.com
 cdn5-thumbs.worldsex.com
 cdn5.assbikini.com
 cdn5.dixyporn.com
+cdn5.erostockings.com
 cdn5.freematurepornpics.com
 cdn5.homemoviestube.com
 cdn5.hotbustymilfs.com
@@ -1487,7 +1501,9 @@ cdni.alurajensonxxx.com
 cdni.bigteenass.com
 cdni.bustymilfporn.com
 cdni.evanotty.com
+cdni.grannytitty.com
 cdni.hotgrannypics.com
+cdni.hotmilfs.pics
 cdni.hotporngirl.com
 cdni.houseoftaboo.com
 cdni.jeffsmodels.com
@@ -1504,6 +1520,7 @@ cdni.wetpanties.pics
 cdnlover.com
 cdnpins.intctrl.com
 cdnu.porndoe.com
+cdnvideos.pro
 cds.m5f7w2f6.hwcdn.net
 cds.z2a2v2p8.hwcdn.net
 cdsissy.com
@@ -1768,10 +1785,14 @@ crystalmilfpics.com
 cs.scoregroup.com
 csongradi.info
 css.allpornpictures.com
+css.hdmaturetube.com
 css.housewifepics.com
 css.maturebbwpics.com
+css.maturetube.tv
 css.nakedmilfs.pics
 css.olderwomanpics.com
+css.pussysexvideos.com
+csss.hotmilfs.pics
 cumblastcity.com
 cumgranny.com
 cumlouder.com
@@ -1939,6 +1960,7 @@ eastbabes.com
 eastcontent.com
 easyhotpics.com
 ebaland.org
+ebaumsworld.com
 ebony-beauty.com
 ebony-lesbian.org
 ebonyamateurphoto.com
@@ -2021,6 +2043,7 @@ eporner.com
 ero.today
 eropanties.com
 eropics.org
+erostockings.com
 erotic-cuties.com
 erotic-olders.com
 erotic-photos.net
@@ -2395,6 +2418,8 @@ freematuressex.com
 freemilfover30.com
 freemilfpic.com
 freemilfporn.xyz
+freemomspics.com
+freemomspics.com
 freemomspics.info
 freenylonfetish.com
 freenylontgp.com
@@ -2438,7 +2463,9 @@ fuckmaturewhore.com
 fuckmilfpics.com
 fuckmompussy.com
 fuckteenvideo.net
+fullvideos.tv
 fux.com
+g-experience.com.au
 galeryfantasi.top
 galleries.adult-empire.com
 galleries.adultlingeriepics.com
@@ -2909,6 +2936,7 @@ grannysexypics.com
 grannyslutphoto.com
 grannyslutspics.com
 grannysuspender.com
+grannytitty.com
 grannyvintage.com
 grannyxxxphotos.com
 grannyxxxpic.com
@@ -3027,6 +3055,7 @@ hdfreeporn.pro
 hdgaytube.xxx
 hdmature.nl
 hdmatureporn.cc
+hdmaturetube.com
 hdpics.pro
 hdporn4.com
 hdpornfree.tv
@@ -3147,6 +3176,7 @@ hotmilfpics.xyz
 hotmilfpictures.com
 hotmilfporn.xyz
 hotmilfpussy.com
+hotmilfs.pics
 hotmomfreeporn.com
 hotmomspics.com
 hotmovies.com
@@ -3283,6 +3313,11 @@ i8.ufstatic.com
 i9.ufstatic.com
 ibonedyourmom.com
 ic.aff-handler.com
+icdn01.fullvideos.tv
+icdn02.fullvideos.tv
+icdn03.fullvideos.tv
+icdn04.fullvideos.tv
+icdn05.fullvideos.tv
 ice-teenies.com
 icehairybabes.com
 icehairywomen.com
@@ -3297,6 +3332,7 @@ idealmature.com
 idealpanties.com
 idols69.net
 ifrm.camdough.com
+iftvmilfs.com
 ifuckedtheboss.com
 ifyouporn.com
 ihaveawife.naughtyamerica.com
@@ -3810,6 +3846,7 @@ intimatelesbians.com
 intporn.com
 inwetpanties.com
 ip.pixxx.top
+ip201285291.ahcdn.com
 ip219082569.ahcdn.com
 ip219082807.ahcdn.com
 ip219082896.ahcdn.com
@@ -4226,6 +4263,7 @@ lookatbbw.com
 lookhairypics.com
 lookmaturewoman.com
 lornablu.co.uk
+los.2hisnd.com
 lotofxpics.com
 love-moms.com
 loveebonypussy.staxxx.com
@@ -4424,6 +4462,7 @@ maturestwat.com
 maturetights.com
 maturetits.club
 maturetube.com
+maturetube.tv
 maturevaginas.com
 maturewant.com
 maturewhims.com
@@ -4859,6 +4898,7 @@ nonameporn.com
 novagirl.net
 nsfw.xxx
 nsfwimg.com
+nt.freemomspics.com
 nt.hotbootypics.com
 nt.milfspics.com
 nubabes.com
@@ -5289,6 +5329,7 @@ picsteenpussy.com
 pictoa.com
 pictures.mypornstarblogs.com
 pictures.stylebistro.com
+pictures.zimbio.com
 picturesofblackpussy.com
 pimpcunts.com
 pimpmykarups.com
@@ -5462,6 +5503,7 @@ pussyfur.com
 pussygo.com
 pussyinnylon.com
 pussymaturephoto.com
+pussysexvideos.com
 pussytights.com
 qkporn.com
 queenofmature.com
@@ -5658,6 +5700,7 @@ sex-3.milfstockingstgp.com
 sex-4.milfstockingstgp.com
 sex-5.milfstockingstgp.com
 sex.com
+sexadept.com
 sexandsubmission.com
 sexart.adultsites.co
 sexart.com
@@ -5984,6 +6027,7 @@ t.beautifulboobspics.com
 t.black-booty.net
 t.blackhottits.com
 t.ebonytitpics.com
+t.freemomspics.com
 t.frtyj.com
 t.hotbootypics.com
 t.irtyd.com
@@ -6335,6 +6379,7 @@ tinywetpanties.com
 tiredholes.com
 tits-bigtits.com
 titsandtugs.com
+tn.freemomspics.com
 tn.hclips.com
 tn.hdzog.com
 tn.hotmovs.com
@@ -6399,6 +6444,7 @@ tubepornstars.tv
 tuberium.com
 tubes.asexstories.com
 tubesafari.com
+tubestatic.usco1621-b.com
 tumblrgallery.xyz
 twistysdaily.com
 txxx.tube
@@ -6432,8 +6478,11 @@ urbasm.com
 urlporn.com
 urnotalone.com
 usa-mature.com
+usco1621-b.com
 user-uploads.aznude.com
+uthumbs.cdnvideos.pro
 uus1.com
+uvideos.cdnvideos.pro
 v-lang.eu
 v.angel-porns.com
 v010.hdsex.org
@@ -6966,6 +7015,7 @@ www.bestamateurpics.com
 www.bestasspics.com
 www.bestblackpics.com
 www.bestcontentprogram.top
+www.bestcontentprovider.top
 www.bestfree6.com
 www.besthairyporn.com
 www.bestlingerieporn.com
@@ -7332,6 +7382,7 @@ www.eastcontent.com
 www.easyhotpics.com
 www.easyporn.xxx
 www.ebaland.org
+www.ebaumsworld.com
 www.ebony-beauty.com
 www.ebony-lesbian.org
 www.ebonyamateurphoto.com
@@ -7395,6 +7446,7 @@ www.ero.today
 www.erobliss.com
 www.eropanties.com
 www.eropics.org
+www.erostockings.com
 www.erotic-cuties.com
 www.erotic-olders.com
 www.erotic-photos.net
@@ -7537,6 +7589,8 @@ www.freematuressex.com
 www.freemilfover30.com
 www.freemilfpic.com
 www.freemilfporn.xyz
+www.freemomspics.com
+www.freemomspics.com
 www.freemomspics.info
 www.freenylonfetish.com
 www.freenylontgp.com
@@ -7582,7 +7636,9 @@ www.fuckmaturewhore.com
 www.fuckmilfpics.com
 www.fuckmompussy.com
 www.fuckteenvideo.net
+www.fullvideos.tv
 www.fux.com
+www.g-experience.com.au
 www.galeryfantasi.top
 www.galleriespanty.com
 www.galsarchive.com
@@ -7710,6 +7766,7 @@ www.grannysexypics.com
 www.grannyslutphoto.com
 www.grannyslutspics.com
 www.grannysuspender.com
+www.grannytitty.com
 www.grannyvintage.com
 www.grannyxxxphotos.com
 www.grannyxxxpic.com
@@ -7848,6 +7905,7 @@ www.hdfreeporn.pro
 www.hdgaytube.xxx
 www.hdmature.nl
 www.hdmatureporn.cc
+www.hdmaturetube.com
 www.hdpics.pro
 www.hdporn4.com
 www.hdpornfree.tv
@@ -7960,6 +8018,7 @@ www.hotmilfpics.xyz
 www.hotmilfpictures.com
 www.hotmilfporn.xyz
 www.hotmilfpussy.com
+www.hotmilfs.pics
 www.hotmomfreeporn.com
 www.hotmomspics.com
 www.hotmovies.com
@@ -8040,6 +8099,7 @@ www.ideal-milfs.com
 www.idealmature.com
 www.idealpanties.com
 www.idols69.net
+www.iftvmilfs.com
 www.ifuckedtheboss.com
 www.ifyouporn.com
 www.ihavefreeporn.com
@@ -8452,6 +8512,7 @@ www.maturestwat.com
 www.maturetights.com
 www.maturetits.club
 www.maturetube.com
+www.maturetube.tv
 www.maturevaginas.com
 www.maturewant.com
 www.maturewhims.com
@@ -9212,6 +9273,7 @@ www.picsporn.xxx
 www.picsteenpussy.com
 www.pictoa.com
 www.pictures.stylebistro.com
+www.pictures.zimbio.com
 www.picturesofblackpussy.com
 www.pimpcunts.com
 www.pimpmykarups.com
@@ -9337,6 +9399,7 @@ www.pussyfur.com
 www.pussygo.com
 www.pussyinnylon.com
 www.pussymaturephoto.com
+www.pussysexvideos.com
 www.pussytights.com
 www.qatmi.eu
 www.qkporn.com
@@ -9428,6 +9491,7 @@ www.sensualmamas.com
 www.sensualmothers.com
 www.sex-teen-model.net
 www.sex.com
+www.sexadept.com
 www.sexandsubmission.com
 www.sexart.adultsites.co
 www.sexart.com
@@ -10136,11 +10200,14 @@ www.yourwifemymeat.com
 www.youx.xxx
 www.yummyhairypussy.com
 www.zbporn.com
+www.zimbio.com
 www.zishy.adultsites.co
 www.zishy.com
 www.zuzana.com
+www1.pictures.zimbio.com
 www2.kellymadison.com
 www2.pictures.stylebistro.com
+www2.pictures.zimbio.com
 www2.pornfidelity.com
 www3.ffetish.photos
 www3.karupsha.com
