@@ -1,6 +1,6 @@
 
 #Another list blocking xxx with Pi-hole
-#Updated: 26.5.2021
+#Updated: 27.5.2021
 0.letmejerk.com
 1.letmejerk.com
 1.porngals4.com
@@ -1055,6 +1055,7 @@ cdn.pornmoms.org
 cdn.pornomom.net
 cdn.pornpics.com
 cdn.pornpicslab.com
+cdn.pornpictureshq.com
 cdn.prettygrannypics.com
 cdn.prettymaturegirls.com
 cdn.prettymilfpics.com
@@ -5352,6 +5353,7 @@ pornpicsamateur.com
 pornpicslab.com
 pornpicslove.com
 pornpicsweb.com
+pornpictureshq.com
 pornpitstop.com
 pornpremium.net
 pornrox.com
@@ -6621,6 +6623,7 @@ ww1.elite-matures.com
 ww1.erotic-photos.net
 ww1.fatblacksexsite.com
 ww1.feet-toes.com
+ww1.hairy-labia.com
 ww1.hairyblackbabes.com
 ww1.hqseek.comblacks.php
 ww1.maturehoz.com
@@ -6638,7 +6641,6 @@ ww1.sexyblackteenspics.com
 ww1.teen-tart.com
 ww1.weporn.com
 ww1.xlbooty.com
-ww1.hairy-labia.com
 www.1000sbdsmvideo.com
 www.101teengirls.com
 www.101xxx.xyz
@@ -9271,6 +9273,7 @@ www.pornpicsamateur.com
 www.pornpicslab.com
 www.pornpicslove.com
 www.pornpicsweb.com
+www.pornpictureshq.com
 www.pornpitstop.com
 www.pornpremium.net
 www.pornrox.com
