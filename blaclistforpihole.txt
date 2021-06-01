@@ -1,6 +1,6 @@
 
 #Another list blocking xxx with Pi-hole
-#Updated: 31.5.2021
+#Updated: 1.6.2021
 0.letmejerk.com
 1.letmejerk.com
 1.porngals4.com
@@ -6450,6 +6450,8 @@ mplstudios.com
 mrcreepo.com
 mrluckypov.com
 mrporngeek.com
+mrskin.com
+mrskincdn.com
 mrssiren.com
 multimatureporn.com
 multiteen.com
@@ -12591,6 +12593,8 @@ www.mplstudios.adultsites.co
 www.mplstudios.com
 www.mrluckypov.com
 www.mrporngeek.com
+www.mrskin.com
+www.mrskincdn.com
 www.mrssiren.com
 www.multimatureporn.com
 www.multiteen.com
