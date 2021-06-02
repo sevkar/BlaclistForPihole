@@ -1,5 +1,4 @@
 
-
 #Another list blocking xxx with Pi-hole
 #Updated: 2.6.2021
 0.letmejerk.com
@@ -35,6 +34,7 @@
 1byday.adultsites.co
 1fatpussy.com
 1granny.net
+1grannyporn.com
 1pondo.com
 1stbbwporn.com
 1tb.favim.com
@@ -524,6 +524,7 @@ anyporn.com
 anyporn.top
 anyporntube.com
 anysex.com
+anyxan.com
 anyxxx.me
 ao30free.com
 apanties.com
@@ -1688,6 +1689,7 @@ cdn.nakedwife.pro
 cdn.nastymaturepics.com
 cdn.nastymilfsex.com
 cdn.naughtymag.com
+cdn.nesaporn.com
 cdn.newmaturefantasy.com
 cdn.newmilfsex.com
 cdn.nicematurefuck.com
@@ -6077,6 +6079,7 @@ krameramtsstuben.com
 krasavica.info
 krissy4u.com
 kts.visitstats.com
+kuces.eu
 kusadasiescorts.com
 kygirl.xyz
 kyliessecret.com
@@ -6489,6 +6492,7 @@ maturetights.com
 maturetits.club
 maturetube.com
 maturetube.tv
+maturetubehotvideo.com
 maturetubelab.com
 maturetubesexvideo.com
 matureu.com
@@ -7028,6 +7032,7 @@ naughtytugs.com
 naughtyweddings.com
 neighboursmom.com
 nerdnudes.com
+nesaporn.com
 new-nylon.com
 new.allover30.com
 new.ebonymilfspics.com
@@ -7223,6 +7228,7 @@ numnylon.com
 numommy.com
 numoms.com
 nupics.pro
+nuslut.com
 nutaku.net
 nuvid.com
 nuvidp.com
@@ -7583,11 +7589,14 @@ phonesextreasure.com
 phongkhambaoanh.com
 photo.pornozavr.net
 photos.modelmayhem.com
+pic.anyxan.com
 pic.aveliporn.com
+pic.cdnclouder.com
 pic.empflix.com
 pic.esmatube.com
 pic.gaytorrent.ru
 pic.hotntubes.com
+pic.nesaporn.com
 pic1.anybunny.com
 pic1.hotntubes.com
 pic2.anybunny.com
@@ -10022,6 +10031,7 @@ vaginapics.pro
 valeriemillett.com
 valoryirene.com
 vanessapur.com
+vartuc.com
 vcdn.analdin.com
 verotel.com
 veryhotmilf.com
@@ -10049,6 +10059,7 @@ vids.alphaporno.com
 viewgals.com
 viewmature.com
 vikiporn.com
+vimages.tv9.lv
 vintage-milfs.com
 vintageflash.com
 vintagehooters.com
@@ -10063,6 +10074,7 @@ vipbabesworld.com
 vipissy.com
 vipmaturepics.com
 vipmatureporn.com
+vipmaturepussy.com
 vipmembers.net
 vipoldies.net
 vipwank.com
@@ -10315,6 +10327,7 @@ www.1by-day.com
 www.1byday.adultsites.co
 www.1fatpussy.com
 www.1granny.net
+www.1grannyporn.com
 www.1pondo.com
 www.1stbbwporn.com
 www.1teenporn.com
@@ -10591,6 +10604,7 @@ www.anyporn.com
 www.anyporn.top
 www.anyporntube.com
 www.anysex.com
+www.anyxan.com
 www.anyxxx.me
 www.ao30free.com
 www.apanties.com
@@ -12753,6 +12767,7 @@ www.kostenloserporno.com.es
 www.krameramtsstuben.com
 www.krasavica.info
 www.krissy4u.com
+www.kuces.eu
 www.kusadasiescorts.com
 www.kygirl.xyz
 www.kyliessecret.com
@@ -13142,6 +13157,7 @@ www.maturetights.com
 www.maturetits.club
 www.maturetube.com
 www.maturetube.tv
+www.maturetubehotvideo.com
 www.maturetubelab.com
 www.maturetubesexvideo.com
 www.matureu.com
@@ -13636,6 +13652,7 @@ www.naughtytugs.com
 www.naughtyweddings.com
 www.neighboursmom.com
 www.nerdnudes.com
+www.nesaporn.com
 www.new-nylon.com
 www.newfree6.com
 www.newgirlpov.com
@@ -13825,6 +13842,7 @@ www.numnylon.com
 www.numommy.com
 www.numoms.com
 www.nupics.pro
+www.nuslut.com
 www.nutaku.net
 www.nuvid.com
 www.nuvidp.com
@@ -15336,6 +15354,7 @@ www.vaginapics.pro
 www.valeriemillett.com
 www.valoryirene.com
 www.vanessapur.com
+www.vartuc.com
 www.verotel.com
 www.veryhotmilf.com
 www.veteranvaginas.com
@@ -15372,6 +15391,7 @@ www.viphairypussy.com
 www.vipissy.com
 www.vipmaturepics.com
 www.vipmatureporn.com
+www.vipmaturepussy.com
 www.vipmembers.net
 www.vipoldies.net
 www.vipwank.com
@@ -15564,6 +15584,10 @@ www.xfantazy.com
 www.xfapix.com
 www.xfreehd.com
 www.xgrandmas.com
+www.xgrannyfuck.com
+www.xgrannyporn.net
+www.xgrannypussy.com
+www.xgrannysex.com
 www.xhamster.com
 www.xhoneys.com
 www.xhub.video
@@ -15574,6 +15598,8 @@ www.xlgirls.com
 www.xltube.com
 www.xmature.su
 www.xmaturemix.com
+www.xmatureporn.net
+www.xmaturepussy.com
 www.xmilf.su
 www.xmilfgals.com
 www.xmilfpics.com
@@ -15930,6 +15956,10 @@ xd-cdn.com
 xfapix.com
 xfreehd.com
 xgrandmas.com
+xgrannyfuck.com
+xgrannyporn.net
+xgrannypussy.com
+xgrannysex.com
 xhams.gesek.info
 xhamster.com
 xhamster.desi
@@ -15948,6 +15978,8 @@ xlspics6.lesboporn.best
 xltube.com
 xmature.su
 xmaturemix.com
+xmatureporn.net
+xmaturepussy.com
 xmilf.su
 xmilfgals.com
 xmilfpics.com
