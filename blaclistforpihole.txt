@@ -1,6 +1,6 @@
 
 #Another list blocking xxx with Pi-hole
-#Updated: 13.6.2021
+#Updated: 23.7.2021
 0.letmejerk.com
 028ltzx.com
 1.letmejerk.com
@@ -14467,7 +14467,6 @@ twistednuts.com
 twistedvisual.com
 twistys.com
 twistysdaily.com
-twitter.com
 two-lips.com
 txtobl.com
 txxx.com
@@ -22818,7 +22817,6 @@ www.twistednuts.com
 www.twistedvisual.com
 www.twistys.com
 www.twistysdaily.com
-www.twitter.com
 www.two-lips.com
 www.txtobl.com
 www.txxx.com
