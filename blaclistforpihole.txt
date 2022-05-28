@@ -1,6 +1,6 @@
 
 #Another list blocking xxx with Pi-hole
-#Updated: 29.1.2022
+#Updated: 28.5.2022
 0.letmejerk.com
 028ltzx.com
 1.letmejerk.com
@@ -32,6 +32,7 @@
 18onlygirls.com
 18onlygirlsblog.com
 18paradise.com
+18plus.photos
 18porn.com.es
 18pornsex.com
 18qt.com
@@ -15099,6 +15100,7 @@ www.18nh.com
 www.18onlygirls.com
 www.18onlygirlsblog.com
 www.18paradise.com
+www.18plus.photos
 www.18porn.com.es
 www.18pornsex.com
 www.18qt.com
